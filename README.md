@@ -5,7 +5,7 @@
 - Included Function
 
 ## Introduction	
-Your task is to code out the game's functionality by completing the functions we've outlined below. We've left you plenty of comments as well as a suite of tests that will help you get the job done. Keep in mind that the functions build upon each other so **you should complete each function in order!**
+This is a matching game with 12 randomly chosen cards. In this set of 12 cards is 6 pairs of 2 cards. These cards are added into the website using javascript and further functionality is added to allow for flipping cards and matching. Flips and matches are recorded to keep score. I mainly code out this games functionality by completing the functions that have outlined below. I followed comments and used premade test to insure each function was completed properly. 
 
 ## Deliverable
 ### 1. **`createNewCard()`**
