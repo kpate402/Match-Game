@@ -7,6 +7,8 @@
 ## Introduction	
 This is a matching game with 12 randomly chosen cards. In this set of 12 cards is 6 pairs of 2 cards. These cards are added into the website using javascript and further functionality is added to allow for flipping cards and matching. Flips and matches are recorded to keep score. I mainly code out this games functionality by completing the functions that have outlined below. I followed comments and used premade test to insure each function was completed properly. 
 
+![Match Game Image](https://github.com/kpate402/Match-Game/edit/main/matchgame.png)
+
 ## Deliverable
 ### 1. **`createNewCard()`**
 This function should create and return a new DOM element that represents a card. The structure of the card should be as follows: 
